@@ -1,8 +1,49 @@
 * {
-  background-color: #48e2d4;
+  background-color: #facb0b;
+  margin: 0 auto;
+  font-family: 'Caveat', cursive;
+  font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+  font-family: 'Caveat', cursive;
+  font-family: 'Quicksand', sans-serif;
+  color: #590696;
+  font-size: 68px;
+  text-align: center;
+}
+
+.subtitle {
+  font-family: 'Caveat', cursive;
+  font-family: 'Quicksand', sans-serif;
+  color: #590696;
+  font-size: 26px;
+  text-align: center;
 }
 
 .links {
   background-color: #590696;
   color: white;
+  width: 600px;
+  height: 600px;
+  border-radius: 6%;
+  border: 12px solid #C70A80;
+  margin-top: 28px;
+  
+}
+
+.each-link {
+  background-color: #590696;
+  color: #48e2d4;
+  text-align: center;
+  font-size: 48px;
+  border-radius: 50%;
+  align-content: center;
+  margin-top: 36px;
+}
+
+a {
+  background-color: #590696;
+  color:#facb0b;
+  text-decoration: none;
 }
