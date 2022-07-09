@@ -47,3 +47,17 @@ a {
   color:#facb0b;
   text-decoration: none;
 }
+
+input {
+  background-color: white;
+}
+
+#story-container {
+display: flex;
+font-size: 100;
+background-color: #590696;
+color: white;
+border-radius: 6%;
+border: 12px solid #C70A80;
+margin-top: 30px;
+}
